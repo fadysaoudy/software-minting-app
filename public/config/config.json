@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ADDRESS": "0xeC00f2D89D16E00c5901A13C66473Ce4eDE13014",
+    "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xec00f2d89d16e00c5901a13c66473ce4ede13014",
+    "NETWORK": {
+        "NAME": "rinkeby",
+        "SYMBOL": "ETH",
+        "ID": 4
+    },
+    "NFT_NAME": "Your amazing NFT",
+    "SYMBOL": "AMAZINGNFT",
+    "MAX_SUPPLY": 100,
+    "WEI_COST": 75000000000000000,
+    "DISPLAY_COST": 0.01,
+    "GAS_LIMIT": 3000000,
+    "MARKETPLACE": "Opeansea",
+    "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+    "SHOW_BACKGROUND": true
+}

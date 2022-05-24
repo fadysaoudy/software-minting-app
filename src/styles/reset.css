@@ -1,0 +1,211 @@
+ /* html,
+ body,
+ div,
+ span,
+ applet,
+ object,
+ iframe,
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ p,
+ blockquote,
+ pre,
+ a,
+ abbr,
+ acronym,
+ address,
+ big,
+ cite,
+ code,
+ del,
+ dfn,
+ em,
+ img,
+ ins,
+ kbd,
+ q,
+ s,
+ samp,
+ small,
+ strike,
+ strong,
+ sub,
+ sup,
+ tt,
+ var,
+ b,
+ u,
+ i,
+ center,
+ dl,
+ dt,
+ dd,
+ ol,
+ ul,
+ li,
+ fieldset,
+ form,
+ label,
+ legend,
+ table,
+ caption,
+ tbody,
+ tfoot,
+ thead,
+ tr,
+ th,
+ td,
+ article,
+ aside,
+ canvas,
+ details,
+ embed,
+ figure,
+ figcaption,
+ footer,
+ header,
+ hgroup,
+ menu,
+ nav,
+ output,
+ ruby,
+ section,
+ summary,
+ time,
+ mark,
+ audio,
+ video {
+     margin: 0;
+     padding: 0;
+     border: 0;
+     font-size: 100%;
+     font: inherit;
+     vertical-align: baseline;
+ }
+ 
+ article,
+ aside,
+ details,
+ figcaption,
+ figure,
+ footer,
+ header,
+ hgroup,
+ menu,
+ nav,
+ section {
+     display: block;
+ }
+ 
+ body {
+     line-height: 1;
+ }
+ 
+ ol,
+ ul {
+     list-style: none;
+ }
+ 
+ blockquote,
+ q {
+     quotes: none;
+ }
+ 
+ blockquote:before,
+ blockquote:after,
+ q:before,
+ q:after {
+     content: "";
+     content: none;
+ }
+ 
+ table {
+     border-collapse: collapse;
+     border-spacing: 0;
+ }
+ 
+ body {
+     margin: 0;
+     -webkit-font-smoothing: antialiased;
+     -moz-osx-font-smoothing: grayscale;
+ }
+ 
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+ 
+ code {}
+ 
+ body::-webkit-scrollbar {
+     display: none;
+ }
+ 
+ body {
+     -ms-overflow-style: none;
+     scrollbar-width: none;
+ }
+ 
+ html {
+     background-color: "#4C4C4C";
+ }
+ 
+ div {
+     -moz-user-select: none;
+     -webkit-user-select: none;
+     -ms-user-select: none;
+     user-select: none;
+     -o-user-select: none;
+ } */
+ 
+ .card {
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     background-color: #281253;
+     border-radius: 10px;
+ }
+ 
+ h5 {
+     color: #FDD21E;
+ }
+ 
+ .background-image {
+     background-image: url("../images/giphy\ \(1\).gif");
+     height: 100vh;
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+ 
+ .content {
+     position: relative;
+ }
+ 
+ .supply-text-color {
+     color: #FDD21E;
+ }
+ 
+ .buttons {
+     color: orange;
+     font-weight: bolder;
+     background-color: white;
+     border: none;
+     border-radius: 10px;
+     height: 50px;
+ }
+ 
+ .buttons:hover {
+     color: white;
+     background-color: orange;
+     transition: 0.2s;
+ }
+ /* .orange {
+  color: orange;
+  font-weight: bolder;
+} */
