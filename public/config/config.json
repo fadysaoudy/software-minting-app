@@ -10,7 +10,7 @@
     "SYMBOL": "AMAZINGNFT",
     "MAX_SUPPLY": 100,
     "WEI_COST": 75000000000000000,
-    "DISPLAY_COST": 0.01,
+    "DISPLAY_COST": 0.075,
     "GAS_LIMIT": 3000000,
     "MARKETPLACE": "Opeansea",
     "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
